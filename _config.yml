@@ -14,3 +14,5 @@ asciidoctor:
     - idseparator=_
     - source-highlighter=coderay
     - icons=font
+# baseurl: /asciidoc
+# url: https://jbeomchoi.github.io
